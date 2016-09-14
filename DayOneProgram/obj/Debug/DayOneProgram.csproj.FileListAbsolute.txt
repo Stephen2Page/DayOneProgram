@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayOneProgram\DayOneProgram\bin\Debug\DayOneProgram.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayOneProgram\DayOneProgram\bin\Debug\DayOneProgram.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayOneProgram\DayOneProgram\bin\Debug\DayOneProgram.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayOneProgram\DayOneProgram\obj\Debug\DayOneProgram.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayOneProgram\DayOneProgram\obj\Debug\DayOneProgram.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayOneProgram\DayOneProgram\obj\Debug\DayOneProgram.pdb
